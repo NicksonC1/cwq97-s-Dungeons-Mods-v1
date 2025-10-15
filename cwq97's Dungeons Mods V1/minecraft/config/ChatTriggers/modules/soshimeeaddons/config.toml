@@ -1,0 +1,171 @@
+
+[general]
+	toggle = true
+
+	[general.cat_sounds]
+		cat_sounds = false
+
+	[general.party_invite_notification]
+		party_invite_notification = false
+
+	[general.hide_lobby_join_messages]
+		hide_lobby_join_messages = false
+
+[skyblock]
+
+	[skyblock.death_alert]
+		death_alert = false
+		message = ""
+
+	[skyblock.positional_messages]
+		positional_messages = false
+
+	[skyblock.mimic_relay]
+		mimic_relay = false
+
+	[skyblock.p3_start_timer]
+		p3_start_timer = false
+
+	[skyblock.better_party_finder]
+		better_party_finder = false
+
+	[skyblock.shadow_assassin_alert]
+		shadow_assassin_alert = true
+
+	[skyblock.pad_tick_timer]
+		pad_tick_timer = false
+		x = 0.0
+		y = 0.0
+		scale = 1.0
+
+	[skyblock.invincibility_timer]
+		x = 0.0
+		invincibility_timer = false
+		y = 0.0
+		scale = 1.0
+
+	[skyblock.mute]
+		mute_bonzo_staff = false
+		mute = false
+		mute_wither_shield = false
+
+	[skyblock.party_finder_autokick]
+		party_finder_autokick = false
+
+	[skyblock.right_click_animation]
+		right_click_animation = false
+
+	[skyblock.sbe_blood_fix]
+		sbe_blood_fix = true
+
+	[skyblock.goldor_tick_timer]
+		goldor_tick_timer = false
+		x = 0.0
+		y = 0.0
+		scale = 1.0
+
+	[skyblock.blood_helper]
+		blood_helper = false
+
+	[skyblock.show_terminal_clicks]
+		show_terminal_clicks = false
+
+	[skyblock.leap_helper]
+		player_1 = ""
+		keyboard = true
+		background_color = "127,0,0,0"
+		leap_helper = false
+		player_4 = ""
+		player_3 = ""
+		sorting = 2
+		player_2 = ""
+		scale = 1.0
+
+	[skyblock.wardrobe_helper]
+		wardrobe_helper = true
+
+	[skyblock.i4_helper]
+		i4_helper = false
+
+	[skyblock.death_tick_timer]
+		x = 0.0
+		y = 0.0
+		scale = 1.0
+		death_tick_timer = false
+
+	[skyblock.item_highlight]
+		prevent_item_rendering = true
+		item_highlight = true
+		color_1 = "255,0,255,0"
+		color_2 = "255,255,255,0"
+		color_3 = "255,255,0,0"
+
+	[skyblock.melody_alert]
+		message = "Melancholy!"
+		melody_alert = false
+
+	[skyblock.party_finder_note]
+		party_finder_note = false
+
+[terminals]
+	color = "255,0,255,0"
+	scale = 1.6
+	toggle = true
+	y_offset = "0"
+	first_click_protection = 300
+	timeout = 500
+	x_offset = "0"
+	background_color = "255,0,0,0"
+	high_ping_mode = true
+
+	[terminals.numbers_terminal]
+		show_numbers = false
+		toggle = true
+		color_1 = "255,0,255,0"
+		color_2 = "155,0,255,0"
+		color_3 = "55,0,255,0"
+
+	[terminals.starts_with_terminal]
+		toggle = true
+
+	[terminals.melody_terminal]
+		correct_button_color = "255,0,255,0"
+		slot_color = "255,0,255,0"
+		toggle = false
+		column_color = "127,255,0,255"
+		incorrect_button_color = "255,255,0,0"
+
+	[terminals.colors_terminal]
+		toggle = true
+
+	[terminals.rubix_terminal]
+		right_color = "255,255,0,0"
+		left_color = "255,0,255,0"
+		toggle = true
+
+	[terminals.red_green_terminal]
+		toggle = true
+
+[party_commands]
+	prefix = "`"
+	blacklist = ""
+	toggle = false
+	whitelist = ""
+
+	[party_commands.commands]
+		ping = true
+		fps = true
+		allinvite = true
+		fox = true
+		help = true
+		promote = true
+		transfer = true
+		demote = true
+		kick = true
+		tps = true
+		cat = true
+		calc = true
+		f0-7 = true
+		m1-7 = true
+		warp = true
+

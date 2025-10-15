@@ -1,0 +1,26 @@
+
+[solo_clears]
+
+	[solo_clears.solo_clears]
+		track_solo_clears = true
+
+[party_finder]
+
+	[party_finder.overlay]
+		show_secret_average = true
+		show_cata_level = true
+		party_finder_stats = true
+		show_total_secrets = true
+		show_missing_classes = false
+		show_class_level = true
+		"show_s+_pb" = true
+
+[autokick]
+
+	[autokick.autokick]
+		"required_s+_pb" = ""
+		selected_floor = 0
+		required_secrets = ""
+		send_kick_message = false
+		autokick = false
+

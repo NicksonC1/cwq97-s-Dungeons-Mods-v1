@@ -1,0 +1,87 @@
+{
+    "F5": {
+        "End Dialogue": 8351,
+        "Boss": 30066,
+        "Start Dialogue": 14136,
+        "Livid Kill": 6295
+    },
+    "F1": {
+        "First Kill": 12464,
+        "Second Kill": 1311,
+        "Boss": 24299,
+        "End Dialogue": 8370
+    },
+    "M1": {
+        "First Kill": 12348,
+        "Second Kill": 3886,
+        "Boss": 26291,
+        "End Dialogue": 8682
+    },
+    "F2": {
+        "Undeads": 25349,
+        "Scarf": 20477,
+        "Boss": 46214
+    },
+    "F3": {
+        "Phase 2": 20268,
+        "Guardians": 17776,
+        "Phase 1": 11303,
+        "Boss": 53186
+    },
+    "F4": {
+        "Dialogue": 10964,
+        "Thorn Kill": 57722,
+        "Boss": 69235
+    },
+    "F6": {
+        "Terracottas": 32168,
+        "Giants": 10338,
+        "Sadan": 12322,
+        "Boss": 57516
+    },
+    "M7": {
+        "Maxor": 24930,
+        "Storm": 47955,
+        "Terminals": 31934,
+        "Goldor": 7463,
+        "Necron": 30654,
+        "Dragons": 54987,
+        "Boss": 208966
+    },
+    "F7": {
+        "Maxor": 25775,
+        "Storm": 48091,
+        "Terminals": 49715,
+        "Goldor": 7105,
+        "Necron": 34400,
+        "Boss": 173789
+    },
+    "M5": {
+        "Start Dialogue": 13870,
+        "Livid Kill": 7470,
+        "End Dialogue": 8406,
+        "Boss": 31229
+    },
+    "M2": {
+        "Undeads": 23694,
+        "Scarf": 23023,
+        "Boss": 47491
+    },
+    "M4": {
+        "Dialogue": 10360,
+        "Thorn Kill": 63788,
+        "Boss": 75135
+    },
+    "M6": {
+        "Terracottas": 39420,
+        "Giants": 10672,
+        "Sadan": 12616,
+        "Boss": 65051
+    },
+    "M3": {
+        "Guardians": 17600,
+        "Phase 1": 11300,
+        "Phase 2": 21200,
+        "Boss": 50700
+    }
+}

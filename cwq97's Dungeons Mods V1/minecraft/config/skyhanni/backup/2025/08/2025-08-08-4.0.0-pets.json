@@ -1,0 +1,104 @@
+{
+  "players": {
+    "24512763-1a1f-4b15-af2e-89f424b76749": {
+      "profiles": {
+        "orange": {
+          "pets": [
+            {
+              "petInternalName": "BABY_YETI;4",
+              "heldItemInternalName": "CROCHET_TIGER_PLUSHIE",
+              "exp": 7075711.0,
+              "uuid": "59cd4dd4-a802-4f97-ad26-aa2152ef61c6"
+            },
+            {
+              "petInternalName": "SKELETON;4",
+              "heldItemInternalName": "CROCHET_TIGER_PLUSHIE",
+              "exp": 7466475.914986635,
+              "uuid": "262d9ce2-becf-4722-a2df-c16818fc1c62"
+            },
+            {
+              "petInternalName": "GUARDIAN;5",
+              "heldItemInternalName": "PET_ITEM_ALL_SKILLS_BOOST_COMMON",
+              "exp": 4.688345443526952E7,
+              "uuid": "32ea71b3-d6cb-4ca8-890c-46cc3642f11d"
+            },
+            {
+              "petInternalName": "WOLF;4",
+              "heldItemInternalName": "PET_ITEM_LUCKY_CLOVER",
+              "exp": 6885878.899194661,
+              "uuid": "435bafde-f445-4493-92ff-a85fd3ea88a1"
+            },
+            {
+              "petInternalName": "RAT;4",
+              "exp": 1270124.5727714482,
+              "uuid": "c5968308-ffb4-4b9b-960e-6d6452fcdcc0"
+            },
+            {
+              "petInternalName": "GRANDMA_WOLF;4",
+              "exp": 452721.38599236764,
+              "uuid": "9ff2d211-da21-4da1-8b1f-845ed967b662"
+            },
+            {
+              "petInternalName": "SPIRIT;4",
+              "exp": 15184.89741999999,
+              "uuid": "523fde66-4313-4ca3-bc1c-c9de75cff2ea"
+            },
+            {
+              "petInternalName": "ENDERMAN;3",
+              "heldItemInternalName": "DWARF_TURTLE_SHELMET",
+              "exp": 1547712.9521484775,
+              "uuid": "e3f382fb-babd-41b2-97c0-ffab36650ace"
+            },
+            {
+              "petInternalName": "RABBIT;3",
+              "heldItemInternalName": "PET_ITEM_FARMING_SKILL_BOOST_UNCOMMON",
+              "exp": 562761.5881492812,
+              "uuid": "a29c0236-38af-4719-9ffc-1332c91838ee"
+            },
+            {
+              "petInternalName": "ENDERMAN;2",
+              "exp": 551682.7542493562,
+              "uuid": "1a04dca3-d64f-435b-a79e-bd5ba1f20413"
+            }
+          ],
+          "expSharePets": []
+        },
+        "watermelon": {
+          "pets": [
+            {
+              "petInternalName": "BINGO;0",
+              "heldItemInternalName": "BINGO;0",
+              "exp": 1572660.0,
+              "uuid": "c9d37c7f-97a8-42bb-a4a4-417ac0487d08"
+            },
+            {
+              "petInternalName": "GRANDMA_WOLF;0",
+              "exp": 0.0,
+              "uuid": "60ccf59c-49a7-4f58-8ab5-bcf488d5b5a5"
+            },
+            {
+              "petInternalName": "ROCK;0",
+              "exp": 0.0,
+              "uuid": "7adef2b9-a8d3-4169-b199-479580855925"
+            },
+            {
+              "petInternalName": "ROCK;1",
+              "exp": 0.0,
+              "uuid": "99f79649-bc0b-4d4d-b81c-0dadd12ed693"
+            },
+            {
+              "petInternalName": "SILVERFISH;2",
+              "exp": 77932.63141333262,
+              "uuid": "1a15ffac-7fea-4114-a03e-3ba3b6c5c5c3"
+            }
+          ],
+          "expSharePets": []
+        },
+        "apple": {
+          "pets": [],
+          "expSharePets": []
+        }
+      }
+    }
+  }
+}

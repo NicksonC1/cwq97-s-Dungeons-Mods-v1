@@ -1,0 +1,519 @@
+20:44:48 Trying to load config from config/skyhanni/config.json
+20:44:48 load-config-now
+20:44:48 Loaded config from file
+20:44:48 Trying to load sacks from config/skyhanni/sacks.json
+20:44:48 load-sacks-now
+20:44:48 Loaded sacks from file
+20:44:48 Trying to load friends from config/skyhanni/friends.json
+20:44:48 load-friends-now
+20:44:48 Loaded friends from file
+20:44:48 Trying to load known_features from config/skyhanni/known_features.json
+20:44:48 load-known_features-now
+20:44:48 Loaded known_features from file
+20:44:48 Trying to load jacob_contests from config/skyhanni/jacob_contests.json
+20:44:48 Setting jacob_contests to be blank as it did not exist. It will be saved once something is written to it
+20:44:48 Trying to load visual_words from config/skyhanni/visual_words.json
+20:44:48 Setting visual_words to be blank as it did not exist. It will be saved once something is written to it
+20:44:48 Trying to load pets from config/skyhanni/pets.json
+20:44:48 load-pets-now
+20:44:48 Loaded pets from file
+20:45:41 saveConfig: Updated known feature flags
+20:45:41 Saving known_features file
+20:45:41 Saved known_features file successfully
+20:45:41 saveConfig: Updated known feature flags
+20:45:41 Saving known_features file
+20:45:41 Saved known_features file successfully
+20:45:45 saveConfig: saving-data
+20:45:45 Saving pets file
+20:45:45 Saved pets file successfully
+20:45:45 saveConfig: saving-data
+20:45:45 Saving pets file
+20:45:45 Saved pets file successfully
+20:45:48 saveConfig: Save file
+20:45:48 Saving friends file
+20:45:48 Saved friends file successfully
+20:45:48 saveConfig: Save file
+20:45:48 Saving friends file
+20:45:48 Saved friends file successfully
+20:45:48 saveConfig: auto-save-60s
+20:45:48 Saving config file
+20:45:48 Saved config file successfully
+20:45:48 saveConfig: auto-save-60s
+20:45:48 Saving config file
+20:45:48 Saved config file successfully
+20:46:16 saveConfig: saving-data
+20:46:16 Saving pets file
+20:46:16 Saved pets file successfully
+20:46:16 saveConfig: saving-data
+20:46:16 Saving pets file
+20:46:16 Saved pets file successfully
+20:46:48 saveConfig: auto-save-60s
+20:46:48 Saving config file
+20:46:48 Saved config file successfully
+20:46:48 saveConfig: auto-save-60s
+20:46:48 Saving config file
+20:46:48 Saved config file successfully
+20:46:54 saveConfig: saving-data
+20:46:54 Saving pets file
+20:46:54 Saved pets file successfully
+20:46:54 saveConfig: saving-data
+20:46:54 Saving pets file
+20:46:54 Saved pets file successfully
+20:47:25 saveConfig: saving-data
+20:47:25 Saving pets file
+20:47:25 Saved pets file successfully
+20:47:25 saveConfig: saving-data
+20:47:25 Saving pets file
+20:47:25 Saved pets file successfully
+20:47:48 saveConfig: auto-save-60s
+20:47:48 Saving config file
+20:47:48 Saved config file successfully
+20:47:48 saveConfig: auto-save-60s
+20:47:48 Saving config file
+20:47:48 Saved config file successfully
+20:48:11 saveConfig: saving-data
+20:48:11 Saving pets file
+20:48:11 Saved pets file successfully
+20:48:11 saveConfig: saving-data
+20:48:11 Saving pets file
+20:48:11 Saved pets file successfully
+20:48:41 saveConfig: saving-data
+20:48:41 Saving pets file
+20:48:41 Saved pets file successfully
+20:48:41 saveConfig: saving-data
+20:48:41 Saving pets file
+20:48:41 Saved pets file successfully
+20:48:48 saveConfig: auto-save-60s
+20:48:48 Saving config file
+20:48:48 Saved config file successfully
+20:48:48 saveConfig: auto-save-60s
+20:48:48 Saving config file
+20:48:48 Saved config file successfully
+20:49:48 saveConfig: auto-save-60s
+20:49:48 Saving config file
+20:49:48 Saved config file successfully
+20:49:48 saveConfig: auto-save-60s
+20:49:48 Saving config file
+20:49:48 Saved config file successfully
+20:50:48 saveConfig: auto-save-60s
+20:50:48 Saving config file
+20:50:48 Saved config file successfully
+20:50:48 saveConfig: auto-save-60s
+20:50:48 Saving config file
+20:50:48 Saved config file successfully
+20:50:53 saveConfig: saving-data
+20:50:53 Saving pets file
+20:50:53 Saved pets file successfully
+20:50:53 saveConfig: saving-data
+20:50:53 Saving pets file
+20:50:53 Saved pets file successfully
+20:51:48 saveConfig: auto-save-60s
+20:51:48 Saving config file
+20:51:48 Saved config file successfully
+20:51:48 saveConfig: auto-save-60s
+20:51:48 Saving config file
+20:51:48 Saved config file successfully
+20:51:53 saveConfig: saving-data
+20:51:53 Saving pets file
+20:51:53 Saved pets file successfully
+20:51:53 saveConfig: saving-data
+20:51:53 Saving pets file
+20:51:53 Saved pets file successfully
+20:52:24 saveConfig: saving-data
+20:52:24 Saving pets file
+20:52:24 Saved pets file successfully
+20:52:24 saveConfig: saving-data
+20:52:24 Saving pets file
+20:52:24 Saved pets file successfully
+20:52:48 saveConfig: auto-save-60s
+20:52:48 Saving config file
+20:52:48 Saved config file successfully
+20:52:48 saveConfig: auto-save-60s
+20:52:48 Saving config file
+20:52:48 Saved config file successfully
+20:52:55 saveConfig: saving-data
+20:52:55 Saving pets file
+20:52:55 Saved pets file successfully
+20:52:55 saveConfig: saving-data
+20:52:55 Saving pets file
+20:52:55 Saved pets file successfully
+20:53:15 saveConfig: saving-data
+20:53:15 Saving sacks file
+20:53:15 Saved sacks file successfully
+20:53:15 saveConfig: saving-data
+20:53:15 Saving sacks file
+20:53:15 Saved sacks file successfully
+20:53:26 saveConfig: saving-data
+20:53:26 Saving pets file
+20:53:26 Saved pets file successfully
+20:53:26 saveConfig: saving-data
+20:53:26 Saving pets file
+20:53:26 Saved pets file successfully
+20:53:30 saveConfig: saving-data
+20:53:30 Saving sacks file
+20:53:30 Saved sacks file successfully
+20:53:30 saveConfig: saving-data
+20:53:30 Saving sacks file
+20:53:30 Saved sacks file successfully
+20:53:37 saveConfig: saving-data
+20:53:37 Saving sacks file
+20:53:37 Saved sacks file successfully
+20:53:37 saveConfig: saving-data
+20:53:37 Saving sacks file
+20:53:37 Saved sacks file successfully
+20:53:45 saveConfig: saving-data
+20:53:45 Saving sacks file
+20:53:45 Saved sacks file successfully
+20:53:45 saveConfig: saving-data
+20:53:45 Saving sacks file
+20:53:45 Saved sacks file successfully
+20:53:48 saveConfig: auto-save-60s
+20:53:48 Saving config file
+20:53:48 Saved config file successfully
+20:53:48 saveConfig: auto-save-60s
+20:53:48 Saving config file
+20:53:48 Saved config file successfully
+20:53:57 saveConfig: saving-data
+20:53:57 Saving pets file
+20:53:57 Saved pets file successfully
+20:53:57 saveConfig: saving-data
+20:53:57 Saving pets file
+20:53:57 Saved pets file successfully
+20:54:24 saveConfig: saving-data
+20:54:24 Saving sacks file
+20:54:24 Saved sacks file successfully
+20:54:24 saveConfig: saving-data
+20:54:24 Saving sacks file
+20:54:24 Saved sacks file successfully
+20:54:27 saveConfig: saving-data
+20:54:27 Saving pets file
+20:54:27 Saved pets file successfully
+20:54:27 saveConfig: saving-data
+20:54:27 Saving pets file
+20:54:27 Saved pets file successfully
+20:54:34 saveConfig: saving-data
+20:54:34 Saving sacks file
+20:54:34 Saved sacks file successfully
+20:54:34 saveConfig: saving-data
+20:54:34 Saving sacks file
+20:54:34 Saved sacks file successfully
+20:54:48 saveConfig: auto-save-60s
+20:54:48 Saving config file
+20:54:48 Saved config file successfully
+20:54:48 saveConfig: auto-save-60s
+20:54:48 Saving config file
+20:54:48 Saved config file successfully
+20:54:49 saveConfig: saving-data
+20:54:49 Saving sacks file
+20:54:49 Saved sacks file successfully
+20:54:49 saveConfig: saving-data
+20:54:49 Saving sacks file
+20:54:49 Saved sacks file successfully
+20:55:48 saveConfig: auto-save-60s
+20:55:48 Saving config file
+20:55:48 Saved config file successfully
+20:55:48 saveConfig: auto-save-60s
+20:55:48 Saving config file
+20:55:48 Saved config file successfully
+20:55:57 saveConfig: saving-data
+20:55:57 Saving pets file
+20:55:57 Saved pets file successfully
+20:55:57 saveConfig: saving-data
+20:55:57 Saving pets file
+20:55:57 Saved pets file successfully
+20:56:06 saveConfig: saving-data
+20:56:06 Saving sacks file
+20:56:06 Saved sacks file successfully
+20:56:06 saveConfig: saving-data
+20:56:06 Saving sacks file
+20:56:06 Saved sacks file successfully
+20:56:23 saveConfig: saving-data
+20:56:23 Saving sacks file
+20:56:23 Saved sacks file successfully
+20:56:23 saveConfig: saving-data
+20:56:23 Saving sacks file
+20:56:23 Saved sacks file successfully
+20:56:28 saveConfig: saving-data
+20:56:28 Saving pets file
+20:56:28 Saved pets file successfully
+20:56:28 saveConfig: saving-data
+20:56:28 Saving pets file
+20:56:28 Saved pets file successfully
+20:56:48 saveConfig: auto-save-60s
+20:56:48 Saving config file
+20:56:48 Saved config file successfully
+20:56:48 saveConfig: auto-save-60s
+20:56:48 Saving config file
+20:56:48 Saved config file successfully
+20:56:59 saveConfig: saving-data
+20:56:59 Saving pets file
+20:56:59 Saved pets file successfully
+20:56:59 saveConfig: saving-data
+20:56:59 Saving pets file
+20:56:59 Saved pets file successfully
+20:57:29 saveConfig: saving-data
+20:57:29 Saving pets file
+20:57:29 Saved pets file successfully
+20:57:29 saveConfig: saving-data
+20:57:29 Saving pets file
+20:57:29 Saved pets file successfully
+20:57:48 saveConfig: auto-save-60s
+20:57:48 Saving config file
+20:57:48 Saved config file successfully
+20:57:48 saveConfig: auto-save-60s
+20:57:48 Saving config file
+20:57:48 Saved config file successfully
+20:58:00 saveConfig: saving-data
+20:58:00 Saving pets file
+20:58:00 Saved pets file successfully
+20:58:00 saveConfig: saving-data
+20:58:00 Saving pets file
+20:58:00 Saved pets file successfully
+20:58:21 saveConfig: saving-data
+20:58:21 Saving sacks file
+20:58:21 Saved sacks file successfully
+20:58:21 saveConfig: saving-data
+20:58:21 Saving sacks file
+20:58:21 Saved sacks file successfully
+20:58:31 saveConfig: saving-data
+20:58:31 Saving pets file
+20:58:31 Saved pets file successfully
+20:58:31 saveConfig: saving-data
+20:58:31 Saving pets file
+20:58:31 Saved pets file successfully
+20:58:44 saveConfig: saving-data
+20:58:44 Saving sacks file
+20:58:44 Saved sacks file successfully
+20:58:44 saveConfig: saving-data
+20:58:44 Saving sacks file
+20:58:44 Saved sacks file successfully
+20:58:48 saveConfig: auto-save-60s
+20:58:48 Saving config file
+20:58:48 Saved config file successfully
+20:58:48 saveConfig: auto-save-60s
+20:58:48 Saving config file
+20:58:48 Saved config file successfully
+20:59:02 saveConfig: saving-data
+20:59:02 Saving pets file
+20:59:02 Saved pets file successfully
+20:59:02 saveConfig: saving-data
+20:59:02 Saving pets file
+20:59:02 Saved pets file successfully
+20:59:16 saveConfig: saving-data
+20:59:16 Saving sacks file
+20:59:16 Saved sacks file successfully
+20:59:16 saveConfig: saving-data
+20:59:16 Saving sacks file
+20:59:16 Saved sacks file successfully
+20:59:33 saveConfig: saving-data
+20:59:33 Saving pets file
+20:59:33 Saved pets file successfully
+20:59:33 saveConfig: saving-data
+20:59:33 Saving pets file
+20:59:33 Saved pets file successfully
+20:59:36 saveConfig: saving-data
+20:59:36 Saving sacks file
+20:59:36 Saved sacks file successfully
+20:59:36 saveConfig: saving-data
+20:59:36 Saving sacks file
+20:59:36 Saved sacks file successfully
+20:59:48 saveConfig: auto-save-60s
+20:59:48 Saving config file
+20:59:48 Saved config file successfully
+20:59:48 saveConfig: auto-save-60s
+20:59:48 Saving config file
+20:59:48 Saved config file successfully
+20:59:55 saveConfig: saving-data
+20:59:55 Saving sacks file
+20:59:55 Saved sacks file successfully
+20:59:55 saveConfig: saving-data
+20:59:55 Saving sacks file
+20:59:55 Saved sacks file successfully
+21:00:04 saveConfig: saving-data
+21:00:04 Saving pets file
+21:00:04 Saved pets file successfully
+21:00:04 saveConfig: saving-data
+21:00:04 Saving pets file
+21:00:04 Saved pets file successfully
+21:00:27 saveConfig: saving-data
+21:00:27 Saving sacks file
+21:00:27 Saved sacks file successfully
+21:00:27 saveConfig: saving-data
+21:00:27 Saving sacks file
+21:00:27 Saved sacks file successfully
+21:00:35 saveConfig: saving-data
+21:00:35 Saving pets file
+21:00:35 Saved pets file successfully
+21:00:35 saveConfig: saving-data
+21:00:35 Saving pets file
+21:00:35 Saved pets file successfully
+21:00:48 saveConfig: auto-save-60s
+21:00:48 Saving config file
+21:00:48 Saved config file successfully
+21:00:48 saveConfig: auto-save-60s
+21:00:48 Saving config file
+21:00:48 Saved config file successfully
+21:00:50 saveConfig: saving-data
+21:00:50 Saving sacks file
+21:00:50 Saved sacks file successfully
+21:00:50 saveConfig: saving-data
+21:00:50 Saving sacks file
+21:00:50 Saved sacks file successfully
+21:01:06 saveConfig: saving-data
+21:01:06 Saving sacks file
+21:01:06 Saved sacks file successfully
+21:01:06 saveConfig: saving-data
+21:01:06 Saving sacks file
+21:01:06 Saved sacks file successfully
+21:01:06 saveConfig: saving-data
+21:01:06 Saving pets file
+21:01:06 Saved pets file successfully
+21:01:06 saveConfig: saving-data
+21:01:06 Saving pets file
+21:01:06 Saved pets file successfully
+21:01:48 saveConfig: auto-save-60s
+21:01:48 Saving config file
+21:01:48 Saved config file successfully
+21:01:48 saveConfig: auto-save-60s
+21:01:48 Saving config file
+21:01:48 Saved config file successfully
+21:01:53 saveConfig: saving-data
+21:01:53 Saving pets file
+21:01:53 Saved pets file successfully
+21:01:53 saveConfig: saving-data
+21:01:53 Saving pets file
+21:01:53 Saved pets file successfully
+21:02:15 saveConfig: saving-data
+21:02:15 Saving sacks file
+21:02:15 Saved sacks file successfully
+21:02:15 saveConfig: saving-data
+21:02:15 Saving sacks file
+21:02:15 Saved sacks file successfully
+21:02:22 saveConfig: saving-data
+21:02:22 Saving sacks file
+21:02:22 Saved sacks file successfully
+21:02:22 saveConfig: saving-data
+21:02:22 Saving sacks file
+21:02:22 Saved sacks file successfully
+21:02:24 saveConfig: saving-data
+21:02:24 Saving pets file
+21:02:24 Saved pets file successfully
+21:02:24 saveConfig: saving-data
+21:02:24 Saving pets file
+21:02:24 Saved pets file successfully
+21:02:40 saveConfig: saving-data
+21:02:40 Saving sacks file
+21:02:40 Saved sacks file successfully
+21:02:40 saveConfig: saving-data
+21:02:40 Saving sacks file
+21:02:40 Saved sacks file successfully
+21:02:48 saveConfig: auto-save-60s
+21:02:48 Saving config file
+21:02:48 Saved config file successfully
+21:02:48 saveConfig: auto-save-60s
+21:02:48 Saving config file
+21:02:48 Saved config file successfully
+21:02:55 saveConfig: saving-data
+21:02:55 Saving pets file
+21:02:55 Saved pets file successfully
+21:02:55 saveConfig: saving-data
+21:02:55 Saving pets file
+21:02:55 Saved pets file successfully
+21:03:26 saveConfig: saving-data
+21:03:26 Saving pets file
+21:03:26 Saved pets file successfully
+21:03:26 saveConfig: saving-data
+21:03:26 Saving pets file
+21:03:26 Saved pets file successfully
+21:03:48 saveConfig: auto-save-60s
+21:03:48 Saving config file
+21:03:48 Saved config file successfully
+21:03:48 saveConfig: auto-save-60s
+21:03:48 Saving config file
+21:03:48 Saved config file successfully
+21:03:57 saveConfig: saving-data
+21:03:57 Saving pets file
+21:03:57 Saved pets file successfully
+21:03:57 saveConfig: saving-data
+21:03:57 Saving pets file
+21:03:57 Saved pets file successfully
+21:04:27 saveConfig: saving-data
+21:04:27 Saving pets file
+21:04:27 Saved pets file successfully
+21:04:27 saveConfig: saving-data
+21:04:27 Saving pets file
+21:04:27 Saved pets file successfully
+21:04:48 saveConfig: auto-save-60s
+21:04:48 Saving config file
+21:04:48 Saved config file successfully
+21:04:48 saveConfig: auto-save-60s
+21:04:48 Saving config file
+21:04:48 Saved config file successfully
+21:04:53 saveConfig: saving-data
+21:04:53 Saving sacks file
+21:04:53 Saved sacks file successfully
+21:04:53 saveConfig: saving-data
+21:04:53 Saving sacks file
+21:04:53 Saved sacks file successfully
+21:04:57 saveConfig: saving-data
+21:04:57 Saving pets file
+21:04:57 Saved pets file successfully
+21:04:57 saveConfig: saving-data
+21:04:57 Saving pets file
+21:04:57 Saved pets file successfully
+21:05:36 saveConfig: saving-data
+21:05:36 Saving pets file
+21:05:36 Saved pets file successfully
+21:05:36 saveConfig: saving-data
+21:05:36 Saving pets file
+21:05:36 Saved pets file successfully
+21:05:48 saveConfig: auto-save-60s
+21:05:48 Saving config file
+21:05:48 Saved config file successfully
+21:05:48 saveConfig: auto-save-60s
+21:05:48 Saving config file
+21:05:48 Saved config file successfully
+21:06:48 saveConfig: auto-save-60s
+21:06:48 Saving config file
+21:06:48 Saved config file successfully
+21:06:48 saveConfig: auto-save-60s
+21:06:48 Saving config file
+21:06:48 Saved config file successfully
+21:07:24 saveConfig: saving-data
+21:07:24 Saving pets file
+21:07:24 Saved pets file successfully
+21:07:24 saveConfig: saving-data
+21:07:24 Saving pets file
+21:07:24 Saved pets file successfully
+21:07:36 saveConfig: saving-data
+21:07:36 Saving sacks file
+21:07:36 Saved sacks file successfully
+21:07:36 saveConfig: saving-data
+21:07:36 Saving sacks file
+21:07:36 Saved sacks file successfully
+21:07:48 saveConfig: auto-save-60s
+21:07:48 Saving config file
+21:07:48 Saved config file successfully
+21:07:48 saveConfig: auto-save-60s
+21:07:48 Saving config file
+21:07:48 Saved config file successfully
+21:07:55 saveConfig: saving-data
+21:07:55 Saving pets file
+21:07:55 Saved pets file successfully
+21:07:55 saveConfig: saving-data
+21:07:55 Saving pets file
+21:07:55 Saved pets file successfully
+21:07:55 saveConfig: saving-data
+21:07:55 Saving sacks file
+21:07:55 Saved sacks file successfully
+21:07:55 saveConfig: saving-data
+21:07:55 Saving sacks file
+21:07:55 Saved sacks file successfully
+21:08:26 saveConfig: saving-data
+21:08:26 Saving pets file
+21:08:26 Saved pets file successfully
+21:08:26 saveConfig: saving-data
+21:08:26 Saving pets file
+21:08:26 Saved pets file successfully
+21:08:35 saveConfig: shutdown-hook
+21:08:35 Saving config file

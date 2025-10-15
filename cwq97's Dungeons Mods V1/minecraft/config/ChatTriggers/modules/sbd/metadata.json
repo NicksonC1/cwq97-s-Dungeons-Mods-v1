@@ -1,0 +1,13 @@
+{
+    "name": "sbd",
+    "description": "Skyblock Dungeon Mod",
+    "version": "0.0.13",
+    "author": "Evankhell0",
+    "entry": "index.js",
+    "requires": [
+        "requestV2",
+        "Vigilance",
+        "BloomCore",
+        "PogData"
+    ]
+}

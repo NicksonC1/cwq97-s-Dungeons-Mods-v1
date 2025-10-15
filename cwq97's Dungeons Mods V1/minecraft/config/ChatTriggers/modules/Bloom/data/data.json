@@ -1,0 +1,156 @@
+{
+    "firstTime": false,
+    "notifiedZeroPing": false,
+    "speedDisplay": {
+        "x": 0,
+        "y": 0,
+        "scale": 1
+    },
+    "party": {
+        "x": 0,
+        "y": 0,
+        "scale": 1
+    },
+    "crystalPB": 0,
+    "runSplits": {
+        "x": 0,
+        "y": 0
+    },
+    "runOverview": {
+        "x": 844,
+        "y": 7,
+        "scale": 1
+    },
+    "dungeonWarpCooldown": {
+        "x": 439,
+        "y": 161,
+        "scale": 1,
+        "lastWarp": 1760515036678
+    },
+    "chMap": {
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "headScale": 1
+    },
+    "bridge": {
+        "regex": null,
+        "lastUpdated": null
+    },
+    "stackTracker": {
+        "x": 0,
+        "y": 0
+    },
+    "toggleSprint": {
+        "x": 0,
+        "y": 0
+    },
+    "rngMeter": {
+        "x": 614.5,
+        "y": 118.5,
+        "scale": 1,
+        "data": {
+            "F1": {
+                "score": 0,
+                "item": "§9Bonzo's Staff",
+                "needed": 31800
+            },
+            "F2": {
+                "score": 6218,
+                "item": "§6Recombobulator 3000",
+                "needed": 9450
+            },
+            "F3": {
+                "score": 3789,
+                "item": "§6Recombobulator 3000",
+                "needed": 6525
+            },
+            "F4": {
+                "score": 0,
+                "item": "§6Recombobulator 3000",
+                "needed": 8300
+            },
+            "F5": {
+                "score": 6127,
+                "item": "§6Shadow Fury",
+                "needed": 114300
+            },
+            "F6": {
+                "score": 4398,
+                "item": "§6Giant's Sword",
+                "needed": 160020
+            },
+            "F7": {
+                "score": 59842,
+                "item": "§6Necron's Handle",
+                "needed": 274119
+            },
+            "M1": {
+                "score": 497,
+                "item": "§6Recombobulator 3000",
+                "needed": 6450
+            },
+            "M2": {
+                "score": 791,
+                "item": "§6Recombobulator 3000",
+                "needed": 6199
+            },
+            "M3": {
+                "score": 1225,
+                "item": null,
+                "needed": 0
+            },
+            "M4": {
+                "score": 3199,
+                "item": "§5Second Master Star",
+                "needed": 10950
+            },
+            "M5": {
+                "score": 806,
+                "item": "§5Third Master Star",
+                "needed": 48750
+            },
+            "M6": {
+                "score": 21987,
+                "item": "§6Giant's Sword",
+                "needed": 135400
+            },
+            "M7": {
+                "score": 73012,
+                "item": "§5Necron's Handle",
+                "needed": 231599
+            }
+        }
+    },
+    "terminalTimer": {
+        "colors": 1094,
+        "maze": 999999,
+        "melody": 3207,
+        "numbers": 2538,
+        "redgreen": 1653,
+        "rubix": 1096,
+        "startsWith": 695
+    },
+    "cellsAlignTimer": {
+        "x": 0,
+        "y": 0,
+        "scale": 1
+    },
+    "dungeonChestProfit": {
+        "x": 0,
+        "y": 0,
+        "scale": 0.5
+    },
+    "itemValueOverlay": {
+        "x": 0,
+        "y": 0,
+        "scale": 1
+    },
+    "wikiType": "official",
+    "betterSplits": {
+        "x": 15,
+        "y": 12,
+        "scale": 1
+    },
+    "lastQuizFetch": 1760512453828
+}

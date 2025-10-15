@@ -1,0 +1,28 @@
+{
+  "players": {
+    "24512763-1a1f-4b15-af2e-89f424b76749": {
+      "profiles": {
+        "orange": {
+          "pets": [],
+          "expSharePets": []
+        },
+        "watermelon": {
+          "pets": [
+            {
+              "petInternalName": "BINGO;0",
+              "heldItemInternalName": "BINGO;0",
+              "exp": 565148.8,
+              "uuid": "c9d37c7f-97a8-42bb-a4a4-417ac0487d08"
+            },
+            {
+              "petInternalName": "GRANDMA_WOLF;0",
+              "exp": 0.0,
+              "uuid": "60ccf59c-49a7-4f58-8ab5-bcf488d5b5a5"
+            }
+          ],
+          "expSharePets": []
+        }
+      }
+    }
+  }
+}

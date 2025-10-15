@@ -1,0 +1,105 @@
+{
+  "players": {
+    "24512763-1a1f-4b15-af2e-89f424b76749": {
+      "profiles": {
+        "watermelon": {
+          "sackContents": {}
+        },
+        "orange": {
+          "sackContents": {
+            "SOULFLOW": {
+              "amount": 0,
+              "lastChange": -30,
+              "status": "CORRECT"
+            },
+            "BLAZE_ROD_DISTILLATE": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "CRUDE_GABAGOOL": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "DERELICT_ASHE": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "CRUDE_GABAGOOL_DISTILLATE": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "GLOWSTONE_DUST_DISTILLATE": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "MAGMA_CREAM_DISTILLATE": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "NETHER_STALK_DISTILLATE": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "NULL_ATOM": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "NULL_SPHERE": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "RAW_SOULFLOW": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "REVENANT_CATALYST": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "REVENANT_FLESH": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "SPIDER_CATALYST": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "TARANTULA_CATALYST": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "TARANTULA_WEB": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "UNDEAD_CATALYST": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "WOLF_TOOTH": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            }
+          }
+        }
+      }
+    }
+  }
+}

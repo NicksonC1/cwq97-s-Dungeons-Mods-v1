@@ -1,0 +1,12 @@
+[
+    {
+        "regex": "[BOSS] Wither King: I no longer wish to fight, but I know that will not stop you.",
+        "text": "rag",
+        "ticks": 20
+    },
+    {
+        "regex": "⚠ Maxor is enraged! ⚠",
+        "text": "Wish",
+        "ticks": 20
+    }
+]

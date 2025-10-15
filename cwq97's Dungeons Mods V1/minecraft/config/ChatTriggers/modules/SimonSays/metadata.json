@@ -1,0 +1,8 @@
+{
+  "name": "&bSimonSays",
+  "creator": "LegendaryJG and Bloom",
+  "description": "&6The best SimonSays solver without dependencies!",
+  "helpMessage": "&3[&bSimonSays&3]&r &fThanks for downloading this module! Use &e/simonsays &fto toggle the features.",
+  "version": "0.0.1",
+  "entry": "index.js"
+}
